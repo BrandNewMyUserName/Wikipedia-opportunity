@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "question": "Is interest in astronomy growing in Ukrainian Wikipedia over the last two complete years, and how robust is that signal?",
+  "start": "2024-09-01",
+  "end": "2026-08-31",
+  "series": [
+    {
+      "id": "uk",
+      "label": "uk: Q333",
+      "language": "uk",
+      "articles": [
+        {
+          "qid": "Q333",
+          "title": "Астрономія"
+        }
+      ]
+    }
+  ],
+  "criteria": {}
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "code_version": "1.0.0",
+  "created_at": "2026-09-23T20:35:49.704823+00:00",
+  "cache_hits": 0,
+  "http_requests": 4,
+  "sources": [
+    {
+      "url": "https://uk.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&prop=pageprops%7Cinfo&redirects=1&titles=%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D1%8F",
+      "fetched_at": "2026-09-23T20:35:48.899339+00:00",
+      "fetched_epoch": 1790195748.899362,
+      "status": 200,
+      "sha256": "7a48180fbfb95258e7e6292219efa27e841a5e5f6ddf3bc93bd21dce9768b189",
+      "cache_file": "c4e671bce94e496d671117dba965e21aec7a87a16752363d9d7784ae4dafe07a.json"
+    },
+    {
+      "url": "https://uk.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&leend=2024-09-01T00%3A00%3A00Z&lelimit=1&letitle=%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D1%8F&letype=move&list=logevents",
+      "fetched_at": "2026-09-23T20:35:49.186345+00:00",
+      "fetched_epoch": 1790195749.186367,
+      "status": 200,
+      "sha256": "2dae19dfdd67021e383c35e5371b76dd28d10f3013e8c6bdd7e1d38175c65bc9",
+      "cache_file": "42ad0062516991d5e04ba5ebe1fcf8af3a92e407a1638e7c170749591d348e6b.json"
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/uk.wikipedia.org/all-access/user/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D1%8F/daily/2024090100/2026083100",
+      "fetched_at": "2026-09-23T20:35:49.440794+00:00",
+      "fetched_epoch": 1790195749.440819,
+      "status": 200,
+      "sha256": "9bec546616326de340710ea848e07b3f54324bf699cf1a4bcc449a55ef5f1738",
+      "cache_file": "463a63726727e6e0f995caf4e893bbde08def270fa80af00fd94b1b6626b5d37.json"
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/uk.wikipedia.org/all-access/user/monthly/2024090100/2026083100",
+      "fetched_at": "2026-09-23T20:35:49.688464+00:00",
+      "fetched_epoch": 1790195749.6884758,
+      "status": 200,
+      "sha256": "0ec212892a8bd20695c0f77982901410deaf99bb1607781e77f9a9303be52400",
+      "cache_file": "2dba9f83df6eb3b48b72e2f1a76a7c1c736a9f59fdca5b9f234c1a7a7c987d3b.json"
+    }
+  ],
+  "snapshot_sha256": "f9fcf9a16d9155f4f44534c69bf0e5f7a92eef41712fe49a4c04c4383ca97fad",
+  "parent_run": "/Users/illia/IT/Projects/genesis-case/wikipedia-opportunity/work/evaluation/luna-v1/run-v1",
+  "reanalysis_at": "2026-09-23T20:36:15.719717+00:00"
+}
