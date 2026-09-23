@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "question": "Astronomy: compare Polish and Czech audience-interest signals",
+  "start": "2024-09-01",
+  "end": "2026-08-31",
+  "series": [
+    {
+      "id": "pl",
+      "label": "pl: Q333",
+      "language": "pl",
+      "articles": [
+        {
+          "qid": "Q333",
+          "title": "Astronomia"
+        }
+      ]
+    },
+    {
+      "id": "cs",
+      "label": "cs: Q333",
+      "language": "cs",
+      "articles": [
+        {
+          "qid": "Q333",
+          "title": "Astronomie"
+        }
+      ]
+    }
+  ],
+  "criteria": {}
+}

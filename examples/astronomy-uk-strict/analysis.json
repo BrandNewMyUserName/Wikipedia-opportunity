@@ -1,0 +1,257 @@
+{
+  "schema_version": 1,
+  "question": "Чи варто дослідити попит на курс астрономії українською?",
+  "start": "2024-09-01",
+  "end": "2026-08-31",
+  "comparison_window": [
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12",
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06",
+    "2026-07",
+    "2026-08"
+  ],
+  "criteria": {
+    "min_baseline_views": 1000,
+    "min_growth_pct": 30,
+    "min_share_growth_pct": 0,
+    "min_robust_growth_pct": 0,
+    "min_positive_months": 8,
+    "max_top7_share": 0.15
+  },
+  "source_retrieval_window": [
+    "2026-09-23T20:18:02.313334+00:00",
+    "2026-09-23T20:23:00.813927+00:00"
+  ],
+  "comparable_baskets": true,
+  "research_order": [],
+  "series": [
+    {
+      "id": "uk",
+      "label": "uk: Q333",
+      "language": "uk",
+      "articles": [
+        {
+          "qid": "Q333",
+          "title": "Астрономія",
+          "pageid": 827,
+          "url": "https://uk.wikipedia.org/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D1%8F",
+          "warnings": []
+        }
+      ],
+      "monthly": [
+        {
+          "month": "2024-09",
+          "views": 4687,
+          "project_views": 74509285,
+          "views_per_million": 62.904911783813255
+        },
+        {
+          "month": "2024-10",
+          "views": 1776,
+          "project_views": 83014264,
+          "views_per_million": 21.393913701385102
+        },
+        {
+          "month": "2024-11",
+          "views": 1746,
+          "project_views": 83835060,
+          "views_per_million": 20.826608819746774
+        },
+        {
+          "month": "2024-12",
+          "views": 1634,
+          "project_views": 84431475,
+          "views_per_million": 19.35297233644207
+        },
+        {
+          "month": "2025-01",
+          "views": 1558,
+          "project_views": 94111809,
+          "views_per_million": 16.554776882463283
+        },
+        {
+          "month": "2025-02",
+          "views": 1296,
+          "project_views": 81951788,
+          "views_per_million": 15.814176012852826
+        },
+        {
+          "month": "2025-03",
+          "views": 1068,
+          "project_views": 79609260,
+          "views_per_million": 13.415524776891532
+        },
+        {
+          "month": "2025-04",
+          "views": 1019,
+          "project_views": 72146878,
+          "views_per_million": 14.123965280937036
+        },
+        {
+          "month": "2025-05",
+          "views": 789,
+          "project_views": 69040303,
+          "views_per_million": 11.428107434580639
+        },
+        {
+          "month": "2025-06",
+          "views": 361,
+          "project_views": 53652676,
+          "views_per_million": 6.728462155363881
+        },
+        {
+          "month": "2025-07",
+          "views": 305,
+          "project_views": 62209478,
+          "views_per_million": 4.902789893205663
+        },
+        {
+          "month": "2025-08",
+          "views": 375,
+          "project_views": 61801817,
+          "views_per_million": 6.067782764380536
+        },
+        {
+          "month": "2025-09",
+          "views": 1642,
+          "project_views": 61256706,
+          "views_per_million": 26.805228475719865
+        },
+        {
+          "month": "2025-10",
+          "views": 635,
+          "project_views": 66044662,
+          "views_per_million": 9.614705878879356
+        },
+        {
+          "month": "2025-11",
+          "views": 557,
+          "project_views": 67137685,
+          "views_per_million": 8.296383767179343
+        },
+        {
+          "month": "2025-12",
+          "views": 622,
+          "project_views": 55497356,
+          "views_per_million": 11.207741139956289
+        },
+        {
+          "month": "2026-01",
+          "views": 449,
+          "project_views": 60471976,
+          "views_per_million": 7.424926878526344
+        },
+        {
+          "month": "2026-02",
+          "views": 425,
+          "project_views": 51614348,
+          "views_per_million": 8.234144505709923
+        },
+        {
+          "month": "2026-03",
+          "views": 410,
+          "project_views": 55114806,
+          "views_per_million": 7.439017384911052
+        },
+        {
+          "month": "2026-04",
+          "views": 405,
+          "project_views": 53385280,
+          "views_per_million": 7.586360884498498
+        },
+        {
+          "month": "2026-05",
+          "views": 600,
+          "project_views": 55950057,
+          "views_per_million": 10.723849664710798
+        },
+        {
+          "month": "2026-06",
+          "views": 281,
+          "project_views": 48312008,
+          "views_per_million": 5.816359361424182
+        },
+        {
+          "month": "2026-07",
+          "views": 322,
+          "project_views": 52999047,
+          "views_per_million": 6.075580943936596
+        },
+        {
+          "month": "2026-08",
+          "views": 360,
+          "project_views": 50720483,
+          "views_per_million": 7.09772420739763
+        }
+      ],
+      "baseline_views": 16614,
+      "latest_views": 6708,
+      "growth_pct": -59.624413145539904,
+      "share_growth_pct": -46.42524188764384,
+      "peak_excluded_growth_pct": -57.52494340571812,
+      "median_month_yoy_pct": -61.772195710074776,
+      "positive_yoy_months": 1,
+      "top7_share": 0.10465116279069768,
+      "top7_days": [
+        [
+          "2025-09-03",
+          131
+        ],
+        [
+          "2025-09-04",
+          127
+        ],
+        [
+          "2025-09-02",
+          116
+        ],
+        [
+          "2025-09-07",
+          101
+        ],
+        [
+          "2025-09-08",
+          93
+        ],
+        [
+          "2025-09-17",
+          69
+        ],
+        [
+          "2025-09-05",
+          65
+        ]
+      ],
+      "coverage": 1.0,
+      "warnings": [],
+      "signal": "no_clear_growth"
+    }
+  ],
+  "caveats": [
+    "Pageviews measure attention, not people, willingness to pay or market size.",
+    "Wikipedia language editions are not countries; audiences can overlap.",
+    "Current titles only: redirect traffic and complete page-move history are not merged.",
+    "User agent filtering is imperfect; seasonality, news, search and bot changes can affect views.",
+    "Single articles are narrow proxies; basket views are not deduplicated readers.",
+    "Signals are descriptive heuristics, not statistical confidence or causal evidence."
+  ]
+}
