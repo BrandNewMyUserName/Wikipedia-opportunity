@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "question": "Який сигнал уваги до інтервального голодування є в чеській Wikipedia, якщо польський еквівалент відсутній?",
+  "start": "2024-09-01",
+  "end": "2026-08-31",
+  "series": [
+    {
+      "id": "cs",
+      "label": "cs: Q1666254",
+      "language": "cs",
+      "articles": [
+        {
+          "qid": "Q1666254",
+          "title": "Přerušovaný půst"
+        }
+      ]
+    }
+  ],
+  "criteria": {}
+}

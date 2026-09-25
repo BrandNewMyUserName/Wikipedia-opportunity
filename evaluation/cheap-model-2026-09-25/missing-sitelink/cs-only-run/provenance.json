@@ -1,0 +1,145 @@
+{
+  "schema_version": 2,
+  "code_version": "1.0.1",
+  "created_at": "2026-09-25T15:07:22.428709+00:00",
+  "source_acquisition": {
+    "cache_hits": 12,
+    "http_requests": 4
+  },
+  "current_run": {
+    "operation": "run",
+    "cache_hits": 12,
+    "http_requests": 4
+  },
+  "sources": [
+    {
+      "url": "https://cs.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&prop=pageprops%7Cinfo&redirects=1&titles=P%C5%99eru%C5%A1ovan%C3%BD+p%C5%AFst",
+      "fetched_at": "2026-09-25T15:07:20.965519+00:00",
+      "fetched_epoch": 1790348840.9655318,
+      "status": 200,
+      "sha256": "86db98f534b0d6b650fb2f8fa2ace1685779ba320ec5611803159fd3ade550c1",
+      "cache_file": "b0ba932626e50e781b3fb1d6d559ba598e7ca9519075431e0387ddf3bcdb03ab.json"
+    },
+    {
+      "url": "https://cs.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&leend=2024-09-01T00%3A00%3A00Z&lelimit=1&letitle=P%C5%99eru%C5%A1ovan%C3%BD+p%C5%AFst&letype=move&list=logevents",
+      "fetched_at": "2026-09-25T15:07:21.269058+00:00",
+      "fetched_epoch": 1790348841.2690828,
+      "status": 200,
+      "sha256": "2dae19dfdd67021e383c35e5371b76dd28d10f3013e8c6bdd7e1d38175c65bc9",
+      "cache_file": "ce3e4ad50199e249010f58cebf0232b2e70a91b363d40b6bc17243e73642318f.json"
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/cs.wikipedia.org/all-access/user/P%C5%99eru%C5%A1ovan%C3%BD_p%C5%AFst/daily/2024090100/2026083100",
+      "fetched_at": "2026-09-25T15:07:22.057202+00:00",
+      "fetched_epoch": 1790348842.057219,
+      "status": 200,
+      "sha256": "cd581361bcc721395edd238cfdc18d25ee346f8ce4323f22dbe04d5d185965ad",
+      "cache_file": "dd5eaedb1a4ccc59350ddb101805397ed4e24054ac3774c160db5bf2e65bcbac.json"
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/cs.wikipedia.org/all-access/user/monthly/2024090100/2024093000",
+      "fetched_at": "2026-09-23T20:30:02.859880+00:00",
+      "fetched_epoch": 1790195402.8599,
+      "status": 200,
+      "sha256": "0cd2809c59183063da65106508c4f1b4219b1c80e610893855932d805e4c5bee",
+      "cache_file": "1f779f1674dd62a995fac337f46f9d174c4bde3d71b19d61edc628c1fd18d477.json"
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/cs.wikipedia.org/all-access/user/monthly/2024100100/2024103100",
+      "fetched_at": "2026-09-23T20:30:03.100490+00:00",
+      "fetched_epoch": 1790195403.100513,
+      "status": 200,
+      "sha256": "5e19e694caccce0b60ddc794385483c81d7c9cfd7b1b8d57d6a1eb437603f266",
+      "cache_file": "0ba717a1fcb0fa14cc5fc2ceef50516d47ad311db8042b88c77072d316dde587.json"
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/cs.wikipedia.org/all-access/user/monthly/2024110100/2024113000",
+      "fetched_at": "2026-09-23T20:31:00.575216+00:00",
+      "fetched_epoch": 1790195460.575237,
+      "status": 200,
+      "sha256": "cfde9275084bfe1d8df4103c82adc2441d7bd7192dd3674208baeccddf0ffd55",
+      "cache_file": "b97eff4fb046a1357ec76bbfcc242207d02e2b29278004f700cd3d24314e67b8.json"
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/cs.wikipedia.org/all-access/user/monthly/2024120100/2024123100",
+      "fetched_at": "2026-09-23T20:31:00.814052+00:00",
+      "fetched_epoch": 1790195460.81407,
+      "status": 200,
+      "sha256": "df369eed00485aac7c347b0191aa203d39ea360cd265975c49307e28a9d6a109",
+      "cache_file": "05c093b607d36f0c974aa7dbcd2ed4e45a1d57c37205a31642ac51c128094a7a.json"
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/cs.wikipedia.org/all-access/user/monthly/2025010100/2025013100",
+      "fetched_at": "2026-09-23T20:31:01.053712+00:00",
+      "fetched_epoch": 1790195461.053735,
+      "status": 200,
+      "sha256": "95693aff907545a714bedc7107231e0187c539c50eabdf7075e8666e1263aff5",
+      "cache_file": "a7157e7fedd5bffc903f9cf1334f0d9ad2572da8e226c6f3d312ff6f72c2ded2.json"
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/cs.wikipedia.org/all-access/user/monthly/2025020100/2025022800",
+      "fetched_at": "2026-09-23T20:31:01.289624+00:00",
+      "fetched_epoch": 1790195461.289644,
+      "status": 200,
+      "sha256": "e4725435f07ddaa45c85e4765856485df180f5757042beafb91a8233ed60a01d",
+      "cache_file": "616b6c7de83f3b890439aaf2a08277cb48b94e98349dde15bc6ce90d154a1542.json"
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/cs.wikipedia.org/all-access/user/monthly/2025030100/2025033100",
+      "fetched_at": "2026-09-23T20:31:01.516828+00:00",
+      "fetched_epoch": 1790195461.5168588,
+      "status": 200,
+      "sha256": "ee8cc6d63aa668456e7b6056787c0eb6ad0d878011e3f39c11e82b86d234eec5",
+      "cache_file": "99ae1dce9e477d42772657b3b529eac68bb2aa868fffdc7544d55faf04687dd4.json"
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/cs.wikipedia.org/all-access/user/monthly/2025040100/2025043000",
+      "fetched_at": "2026-09-23T20:31:01.756364+00:00",
+      "fetched_epoch": 1790195461.756386,
+      "status": 200,
+      "sha256": "1c34c18565c32595f837e33380b27f69e9c1331294c55a7a4f08072f04f930eb",
+      "cache_file": "36db7acda8d288e81eb9dc8e7babac627c12852329d8efc6e0ebc6877df058bc.json"
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/cs.wikipedia.org/all-access/user/monthly/2025050100/2025053100",
+      "fetched_at": "2026-09-23T20:31:01.993945+00:00",
+      "fetched_epoch": 1790195461.993967,
+      "status": 200,
+      "sha256": "96e122ef3ee328013b7d844882a8a1f5cad849900e81a3c72d5bb815596542e7",
+      "cache_file": "732b4c45690201c6cf84e181775dd06eb11e4e382f4e3e6d4702bf738b037e07.json"
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/cs.wikipedia.org/all-access/user/monthly/2025060100/2025063000",
+      "fetched_at": "2026-09-23T20:31:02.235399+00:00",
+      "fetched_epoch": 1790195462.235421,
+      "status": 200,
+      "sha256": "5d855905fe84005dd3e9d0b1673a8fa0e37fde6ffa1ecf96ffec9269217c3976",
+      "cache_file": "089307189a1d1e071cc6fe55d9b8b9d965b23cc1bdcebf21ec763a756dd45f02.json"
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/cs.wikipedia.org/all-access/user/monthly/2025070100/2025073100",
+      "fetched_at": "2026-09-23T20:31:02.479025+00:00",
+      "fetched_epoch": 1790195462.4790459,
+      "status": 200,
+      "sha256": "bcf193891d8a4460c32b76cca49637fe7c9e72b26763dae47941f9a4b5aac2ce",
+      "cache_file": "0bfd496170ed3de164d60fc740e8d8ea9a75758d8298b199e9fea26dfc93a365.json"
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/cs.wikipedia.org/all-access/user/monthly/2025080100/2025083100",
+      "fetched_at": "2026-09-23T20:31:02.720073+00:00",
+      "fetched_epoch": 1790195462.7200918,
+      "status": 200,
+      "sha256": "662cda1b89f6336ff834e4388f1e62d3593f06a2e2b3550e45c57469c8176737",
+      "cache_file": "39a805eb5bf579d4305cf55bdda14074fd1168b0d0bca286811baa832fe42496.json"
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/cs.wikipedia.org/all-access/user/monthly/2025090100/2026083100",
+      "fetched_at": "2026-09-25T15:07:22.414314+00:00",
+      "fetched_epoch": 1790348842.414335,
+      "status": 200,
+      "sha256": "7caf47b78624393e6712610ff108adb9e0e79dd0d03e108624638b0d9919184f",
+      "cache_file": "722e01991fb3e8ac4cf55c306da489ab47876f065bfe0492b2af0cccdbae0a0c.json"
+    }
+  ],
+  "snapshot_sha256": "f9c2b196dae31846bfba1b33ed81e3cfd3384b283c4c4fe5b9275849609f760c"
+}

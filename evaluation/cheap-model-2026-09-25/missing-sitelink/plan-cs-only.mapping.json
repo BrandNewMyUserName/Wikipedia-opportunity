@@ -1,0 +1,187 @@
+{
+  "entities": {
+    "Q1666254": {
+      "type": "item",
+      "id": "Q1666254",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "intermittent fasting"
+        }
+      },
+      "descriptions": {
+        "en": {
+          "language": "en",
+          "value": "a diet that cycles between a period of fasting and non-fasting"
+        }
+      },
+      "sitelinks": {
+        "arwiki": {
+          "site": "arwiki",
+          "title": "صوم متقطع",
+          "badges": []
+        },
+        "astwiki": {
+          "site": "astwiki",
+          "title": "Ayunu intermitente",
+          "badges": []
+        },
+        "bgwiki": {
+          "site": "bgwiki",
+          "title": "Периодично гладуване",
+          "badges": []
+        },
+        "bnwiki": {
+          "site": "bnwiki",
+          "title": "সবিরাম উপবাস",
+          "badges": []
+        },
+        "cswiki": {
+          "site": "cswiki",
+          "title": "Přerušovaný půst",
+          "badges": []
+        },
+        "dawiki": {
+          "site": "dawiki",
+          "title": "Periodisk faste",
+          "badges": []
+        },
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Intermittierendes Fasten",
+          "badges": []
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Intermittent fasting",
+          "badges": []
+        },
+        "eswiki": {
+          "site": "eswiki",
+          "title": "Ayuno intermitente",
+          "badges": []
+        },
+        "euwiki": {
+          "site": "euwiki",
+          "title": "Aldizkako barau",
+          "badges": []
+        },
+        "fawiki": {
+          "site": "fawiki",
+          "title": "روزه‌گیری مقطعی",
+          "badges": []
+        },
+        "fiwiki": {
+          "site": "fiwiki",
+          "title": "Pätkäpaasto",
+          "badges": []
+        },
+        "frwiki": {
+          "site": "frwiki",
+          "title": "Jeûne intermittent",
+          "badges": []
+        },
+        "hewiki": {
+          "site": "hewiki",
+          "title": "צום לסירוגין",
+          "badges": []
+        },
+        "hiwiki": {
+          "site": "hiwiki",
+          "title": "आंतरायिक उपवास",
+          "badges": []
+        },
+        "huwiki": {
+          "site": "huwiki",
+          "title": "Időszakos böjt",
+          "badges": []
+        },
+        "idwiki": {
+          "site": "idwiki",
+          "title": "Puasa intermiten",
+          "badges": []
+        },
+        "itwiki": {
+          "site": "itwiki",
+          "title": "Digiuno intermittente",
+          "badges": []
+        },
+        "jawiki": {
+          "site": "jawiki",
+          "title": "断続的断食",
+          "badges": []
+        },
+        "kowiki": {
+          "site": "kowiki",
+          "title": "간헐적 단식",
+          "badges": []
+        },
+        "mrwiki": {
+          "site": "mrwiki",
+          "title": "असंतत उपवास",
+          "badges": []
+        },
+        "mswiki": {
+          "site": "mswiki",
+          "title": "Puasa berkala",
+          "badges": []
+        },
+        "rowiki": {
+          "site": "rowiki",
+          "title": "Post intermitent",
+          "badges": []
+        },
+        "ruwiki": {
+          "site": "ruwiki",
+          "title": "Периодическое голодание",
+          "badges": []
+        },
+        "slwiki": {
+          "site": "slwiki",
+          "title": "Prekinitveni post",
+          "badges": []
+        },
+        "sqwiki": {
+          "site": "sqwiki",
+          "title": "Agjërimi me ndërprerje",
+          "badges": []
+        },
+        "thwiki": {
+          "site": "thwiki",
+          "title": "การอดอาหารเป็นพัก ๆ",
+          "badges": []
+        },
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "Інтервальне голодування",
+          "badges": []
+        },
+        "viwiki": {
+          "site": "viwiki",
+          "title": "Nhịn ăn gián đoạn",
+          "badges": []
+        },
+        "xhwiki": {
+          "site": "xhwiki",
+          "title": "Intermitent fasting",
+          "badges": []
+        },
+        "zhwiki": {
+          "site": "zhwiki",
+          "title": "間歇性斷食",
+          "badges": []
+        }
+      }
+    }
+  },
+  "sources": [
+    {
+      "url": "https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&ids=Q1666254&languages=en&props=labels%7Cdescriptions%7Csitelinks",
+      "fetched_at": "2026-09-25T15:05:11.769661+00:00",
+      "fetched_epoch": 1790348711.769681,
+      "status": 200,
+      "sha256": "90731a26809854ed118f92530cb6d97e59fe2484ebe998558401594f8da113b9",
+      "cache_file": "f82e3c8be2ab65cd8ea397cd91a2f947bdb32575d053c58a65c9a059e6e1c6f5.json"
+    }
+  ]
+}

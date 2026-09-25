@@ -1,0 +1,262 @@
+{
+  "schema_version": 1,
+  "question": "Який сигнал уваги до інтервального голодування є в чеській Wikipedia, якщо польський еквівалент відсутній?",
+  "start": "2024-09-01",
+  "end": "2026-08-31",
+  "comparison_window": [
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12",
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06",
+    "2026-07",
+    "2026-08"
+  ],
+  "criteria": {
+    "min_baseline_views": 1000,
+    "min_growth_pct": 10,
+    "min_share_growth_pct": 0,
+    "min_robust_growth_pct": 0,
+    "min_positive_months": 8,
+    "max_top7_share": 0.15
+  },
+  "source_retrieval_window": [
+    "2026-09-23T20:30:02.859880+00:00",
+    "2026-09-25T15:07:22.414314+00:00"
+  ],
+  "comparable_baskets": true,
+  "research_order": [],
+  "series": [
+    {
+      "id": "cs",
+      "label": "cs: Q1666254",
+      "language": "cs",
+      "articles": [
+        {
+          "qid": "Q1666254",
+          "title": "Přerušovaný půst",
+          "pageid": 1632302,
+          "url": "https://cs.wikipedia.org/wiki/P%C5%99eru%C5%A1ovan%C3%BD_p%C5%AFst",
+          "warnings": []
+        }
+      ],
+      "monthly": [
+        {
+          "month": "2024-09",
+          "views": 393,
+          "project_views": 62292789,
+          "views_per_million": 6.308916430118421
+        },
+        {
+          "month": "2024-10",
+          "views": 634,
+          "project_views": 70881496,
+          "views_per_million": 8.944506475991986
+        },
+        {
+          "month": "2024-11",
+          "views": 329,
+          "project_views": 68852170,
+          "views_per_million": 4.778353391040544
+        },
+        {
+          "month": "2024-12",
+          "views": 294,
+          "project_views": 70360761,
+          "views_per_million": 4.178465323875619
+        },
+        {
+          "month": "2025-01",
+          "views": 489,
+          "project_views": 83396601,
+          "views_per_million": 5.863548323750029
+        },
+        {
+          "month": "2025-02",
+          "views": 272,
+          "project_views": 69753016,
+          "views_per_million": 3.8994729632909344
+        },
+        {
+          "month": "2025-03",
+          "views": 366,
+          "project_views": 74887886,
+          "views_per_million": 4.887305805374183
+        },
+        {
+          "month": "2025-04",
+          "views": 958,
+          "project_views": 67010206,
+          "views_per_million": 14.296329726250953
+        },
+        {
+          "month": "2025-05",
+          "views": 225,
+          "project_views": 73630159,
+          "views_per_million": 3.0558130398713383
+        },
+        {
+          "month": "2025-06",
+          "views": 238,
+          "project_views": 56271438,
+          "views_per_million": 4.229499164389579
+        },
+        {
+          "month": "2025-07",
+          "views": 157,
+          "project_views": 61159851,
+          "views_per_million": 2.5670435331832313
+        },
+        {
+          "month": "2025-08",
+          "views": 386,
+          "project_views": 57515129,
+          "views_per_million": 6.711277653571811
+        },
+        {
+          "month": "2025-09",
+          "views": 270,
+          "project_views": 57306454,
+          "views_per_million": 4.711511202560186
+        },
+        {
+          "month": "2025-10",
+          "views": 141,
+          "project_views": 66546281,
+          "views_per_million": 2.1188261444692906
+        },
+        {
+          "month": "2025-11",
+          "views": 151,
+          "project_views": 72883460,
+          "views_per_million": 2.0718006527132493
+        },
+        {
+          "month": "2025-12",
+          "views": 218,
+          "project_views": 59967317,
+          "views_per_million": 3.635313549212148
+        },
+        {
+          "month": "2026-01",
+          "views": 474,
+          "project_views": 67410000,
+          "views_per_million": 7.031597685803294
+        },
+        {
+          "month": "2026-02",
+          "views": 196,
+          "project_views": 58306397,
+          "views_per_million": 3.361552249575634
+        },
+        {
+          "month": "2026-03",
+          "views": 179,
+          "project_views": 58040192,
+          "views_per_million": 3.0840697425673573
+        },
+        {
+          "month": "2026-04",
+          "views": 135,
+          "project_views": 54688383,
+          "views_per_million": 2.468531570955389
+        },
+        {
+          "month": "2026-05",
+          "views": 109,
+          "project_views": 59792880,
+          "views_per_million": 1.8229595229398552
+        },
+        {
+          "month": "2026-06",
+          "views": 115,
+          "project_views": 53683305,
+          "views_per_million": 2.1421929965004947
+        },
+        {
+          "month": "2026-07",
+          "views": null,
+          "project_views": 53131065,
+          "views_per_million": null
+        },
+        {
+          "month": "2026-08",
+          "views": null,
+          "project_views": 51467770,
+          "views_per_million": null
+        }
+      ],
+      "baseline_views": null,
+      "latest_views": null,
+      "growth_pct": null,
+      "share_growth_pct": null,
+      "peak_excluded_growth_pct": null,
+      "median_month_yoy_pct": null,
+      "positive_yoy_months": 0,
+      "top7_share": null,
+      "top7_days": [
+        [
+          "2025-09-24",
+          77
+        ],
+        [
+          "2026-01-09",
+          40
+        ],
+        [
+          "2026-01-04",
+          33
+        ],
+        [
+          "2026-01-08",
+          32
+        ],
+        [
+          "2026-01-06",
+          28
+        ],
+        [
+          "2026-01-05",
+          27
+        ],
+        [
+          "2025-12-27",
+          26
+        ]
+      ],
+      "coverage": 0.9972602739726028,
+      "warnings": [
+        "growth_undefined",
+        "incomplete_chart_history",
+        "missing_article_days",
+        "missing_project_totals"
+      ],
+      "signal": "insufficient_data"
+    }
+  ],
+  "caveats": [
+    "Pageviews measure attention, not people, willingness to pay or market size.",
+    "Wikipedia language editions are not countries; audiences can overlap.",
+    "Current titles only: redirect traffic and complete page-move history are not merged.",
+    "User agent filtering is imperfect; seasonality, news, search and bot changes can affect views.",
+    "Single articles are narrow proxies; basket views are not deduplicated readers.",
+    "Signals are descriptive heuristics, not statistical confidence or causal evidence."
+  ]
+}
