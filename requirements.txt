@@ -2,4 +2,5 @@ matplotlib==3.10.8
 reportlab==4.4.10
 pypdf==6.9.1
 pytest==9.0.2
+python-dotenv==1.2.3
 PyYAML==6.0.3

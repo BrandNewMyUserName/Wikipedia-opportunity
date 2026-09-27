@@ -56,7 +56,7 @@ def render(analysis, out):
         lines.append(f'| {s["id"]} | {s["latest_views"]} | {pct(s["growth_pct"])} | {pct(s["share_growth_pct"])} | {pct(s["peak_excluded_growth_pct"])} | {s["signal"]} |')
         lines.extend([])
     lines += ['', 'Research order: ' + (', '.join(analysis['research_order']) or 'No automatic shortlist.'),
-              'Validate with audience interviews and a small landing-page or course-demand test.', '', *['- '+x for x in analysis['caveats']]]
+              'Validate the decision with independent evidence appropriate to the user question.', '', *['- '+x for x in analysis['caveats']]]
     for s in analysis['series']:
         lines += ['',f'**{s["id"]}: {s["label"]}** — coverage {s["coverage"]:.1%}; positive YoY months {s["positive_yoy_months"]}/12; warnings: '+(', '.join(s['warnings']) or 'none detected')]
         lines += [f'- [{a["title"]}]({a["url"]}) · {a["qid"]}' for a in s['articles']]
@@ -82,7 +82,7 @@ def make_pdf(a, out):
         if y-h < 30:
             raise ValueError('PDF exceeds one page; shorten the research question or use fewer series')
         p.drawOn(canvas,left,y-h); y -= h+gap
-    para('WIKIPEDIA / AUDIENCE RESEARCH',9,'#2563eb',8)
+    para('WIKIPEDIA / TOPIC RESEARCH',9,'#2563eb',8)
     para(escape(a['question']),16,'#0f172a',7)
     para(f'{a["start"]} — {a["end"]} · UTC · all-access / user',8)
     para('Compare the latest 12 complete months with the preceding 12. Growth is a research signal, not a launch decision.',9)
@@ -110,16 +110,16 @@ def make_pdf(a, out):
     para('RESEARCH DECISION: '+escape(order or 'No automatic shortlist'),10,'#0f766e',5)
     para(f'Applied minimum raw growth criterion: {a["criteria"]["min_growth_pct"]:g}%.',7,gap=3)
     if order:
-        decision='Investigate the shortlisted audiences with interviews and a small landing-page demand test. Order uses share growth, then volume.'
+        decision='Investigate the shortlisted topics with independent evidence suited to the question. Order uses share growth, then volume.'
     elif any(s['signal']=='insufficient_data' for s in a['series']):
         decision='Resolve missing observations or the undefined baseline before drawing a growth conclusion.'
     elif any(s['signal']=='fragile' for s in a['series']):
-        decision='Inspect peak dates and article history, then test a broader proxy basket before prioritizing an audience.'
+        decision='Inspect peak dates and article history, then test broader concept coverage before prioritizing.'
     else:
-        decision='The chosen proxies do not meet the growth criteria. Test broader topic coverage and learning intent before deciding against the product.'
+        decision='The chosen proxies do not meet the growth criteria. Revisit topic coverage and decision-specific evidence before concluding.'
     if not a['comparable_baskets']: decision+=' Different baskets: cross-series ranking withheld.'
     para(decision,8)
-    para('LIMITS: Attention ≠ paying demand; language ≠ country. Current titles omit redirect traffic and may miss historical moves. '
+    para('LIMITS: Attention ≠ people, intent or real-world prevalence; language ≠ country. Current titles omit redirect traffic and may miss historical moves. '
          'Seasonality, news and imperfect bot filtering remain. Heuristic signals are not confidence intervals.',8)
     for s in a['series']:
         links = '; '.join(f'<link href="{escape(x["url"], {chr(34): "&quot;"})}" color="#2563eb">{escape(x["title"])} ({x["qid"]})</link>' for x in s['articles'])

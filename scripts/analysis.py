@@ -138,7 +138,7 @@ def analyze(snapshot, criteria_override=None):
             'comparison_window': months(config['start'], config['end'])[-24:],
             'criteria': criteria, 'source_retrieval_window':snapshot.get('source_retrieval_window', []), 'comparable_baskets': comparable,
             'research_order': [s['id'] for s in rank], 'series': results,
-            'caveats': ['Pageviews measure attention, not people, willingness to pay or market size.',
+            'caveats': ['Pageviews measure attention, not people, intent, real-world prevalence or market size.',
                         'Wikipedia language editions are not countries; audiences can overlap.',
                         'Current titles only: redirect traffic and complete page-move history are not merged.',
                         'User agent filtering is imperfect; seasonality, news, search and bot changes can affect views.',

@@ -9,6 +9,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from data import Client, DataError, default_window, write_json
 from analysis import analyze, validate_config
+from topic_map import collect_map, analyze_map
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -82,6 +83,42 @@ def execute(args):
                 'next':'Choose the semantic match by label/description; use plan --qids. Do not assume the first result is correct.'}
     if args.command == 'plan':
         return plan(client, args)
+    if args.command == 'map':
+        qids = [args.root_qid, *args.qids]
+        if len(set(qids)) != len(qids) or not 2 <= len(qids) <= 12 or not all(re.fullmatch(r'Q[1-9][0-9]*', q) for q in qids):
+            raise DataError('Map needs 2 to 12 unique QIDs, including the root')
+        if (len(set(args.languages)) != len(args.languages) or not 1 <= len(args.languages) <= 6
+                or not all(re.fullmatch(r'[a-z][a-z0-9-]{0,19}', language) for language in args.languages)):
+            raise DataError('Map needs 1 to 6 unique valid Wikipedia languages')
+        start, end = default_window()
+        start, end = args.start or start, args.end or end
+        validate_config({'schema_version':1,'question':'Topic map','start':start,'end':end,
+                         'series':[{'id':'validation','label':'validation','language':args.languages[0],
+                                    'articles':[{'qid':args.root_qid,'title':'validation'}]}]})
+        out = prepare_output(args.out)
+        snapshot = collect_map(client, qids, args.languages, start, end)
+        analysis = analyze_map(snapshot)
+        write_json(out/'topic-map-snapshot.json', snapshot)
+        write_json(out/'topic-map.json', analysis)
+        write_json(out/'topic-map-provenance.json', {'schema_version':1,
+                   'snapshot_sha256':Client.digest(snapshot), 'sources':list(client.sources.values()),
+                   'cache_hits':client.hits, 'http_requests':client.requests})
+        from topic_map import render_map
+        render_map(analysis, out/'topic-map.md')
+        return {'out':str(out.resolve()), 'map':str((out/'topic-map.json').resolve()),
+                'languages':[{k:row[k] for k in ('language','coverage','growth_pct','share_growth_pct','missing_qids')}
+                             for row in analysis['languages']],
+                'cross_language_comparable':analysis['cross_language_comparable'],
+                'cache_hits':client.hits,'http_requests':client.requests}
+    if args.command == 'verify-spike':
+        from spike_evidence import verify_spike
+        result = verify_spike(load(args.map), args.language, args.date, load(args.evidence))
+        if args.out:
+            path = Path(args.out)
+            if path.exists():
+                raise DataError('Evidence output exists; use a new filename')
+            write_json(path, result)
+        return result
     if args.command == 'run':
         config = load(args.config)
         validate_config(config)
@@ -133,6 +170,12 @@ def parser():
     d = sub.add_parser('discover',parents=[common]); d.add_argument('--query',required=True); d.add_argument('--search-language',default='en')
     m = sub.add_parser('plan',parents=[common]); m.add_argument('--qids',nargs='+',required=True); m.add_argument('--languages',nargs='+',required=True)
     m.add_argument('--question',required=True); m.add_argument('--start'); m.add_argument('--end'); m.add_argument('--out',required=True)
+    t = sub.add_parser('map',parents=[common]); t.add_argument('--root-qid',required=True)
+    t.add_argument('--qids',nargs='+',required=True); t.add_argument('--languages',nargs='+',required=True)
+    t.add_argument('--start'); t.add_argument('--end'); t.add_argument('--out',required=True)
+    v = sub.add_parser('verify-spike',parents=[common]); v.add_argument('--map', required=True)
+    v.add_argument('--language', required=True); v.add_argument('--date', required=True)
+    v.add_argument('--evidence', required=True); v.add_argument('--out')
     r = sub.add_parser('run',parents=[common]); r.add_argument('--config',required=True); r.add_argument('--out',required=True)
     a = sub.add_parser('reanalyze',parents=[common]); a.add_argument('--run',required=True); a.add_argument('--criteria'); a.add_argument('--out',required=True)
     return p
