@@ -14,7 +14,7 @@ from data import default_window, write_json
 
 ROOT=Path(__file__).resolve().parents[1]
 TOOL_SCHEMAS=[
- {'type':'function','function':{'name':'wiki','description':'Run the bundled wikipedia-opportunity CLI. argv starts with discover, plan, run or reanalyze. Use --out under the supplied evaluation directory.','parameters':{'type':'object','properties':{'argv':{'type':'array','items':{'type':'string'}}},'required':['argv'],'additionalProperties':False}}},
+ {'type':'function','function':{'name':'wiki','description':'Run the bundled wikipedia-opportunity CLI. argv starts with discover, plan, map, verify-spike, run or reanalyze. Use --out under the supplied evaluation directory.','parameters':{'type':'object','properties':{'argv':{'type':'array','items':{'type':'string'}}},'required':['argv'],'additionalProperties':False}}},
  {'type':'function','function':{'name':'read_file','description':'Read SKILL.md, a reference, or an evaluation output JSON/Markdown.','parameters':{'type':'object','properties':{'path':{'type':'string'}},'required':['path'],'additionalProperties':False}}},
  {'type':'function','function':{'name':'write_json_file','description':'Write a research plan or criteria JSON in the evaluation directory.','parameters':{'type':'object','properties':{'path':{'type':'string'},'data':{'type':'object'}},'required':['path','data'],'additionalProperties':False}}}
 ]
@@ -39,7 +39,7 @@ class Harness:
             write_json(p,args['data']); return {'written':str(p)}
         if name!='wiki': raise ValueError('Unknown tool')
         argv=args['argv']
-        if not argv or argv[0] not in ('discover','plan','run','reanalyze'): raise ValueError('Invalid command')
+        if not argv or argv[0] not in ('discover','plan','map','verify-spike','run','reanalyze'): raise ValueError('Invalid command')
         from wiki_interest import parser
         try:
             parsed=parser().parse_args(argv)
@@ -47,7 +47,7 @@ class Harness:
             raise ValueError('Invalid CLI arguments') from e
         if Path(parsed.cache).resolve() != (ROOT/'.cache').resolve() or parsed.refresh:
             raise ValueError('Evaluation controls cache; no refresh')
-        for name in ('out','config','run','criteria'):
+        for name in ('out','config','run','criteria','map','evidence'):
             value=getattr(parsed,name,None)
             if value: self.safe_path(value,write=True)
         proc=subprocess.run([sys.executable,str(ROOT/'scripts/wiki_interest.py'),*argv],cwd=ROOT,capture_output=True,text=True,timeout=600)
@@ -114,6 +114,7 @@ def evaluate_outputs(out, transcript, finals):
 def main():
     p=argparse.ArgumentParser(description=__doc__)
     p.add_argument('--model',required=True,help='Explicit authorized OpenRouter model ID supporting tools')
+    p.add_argument('--prompt-file',required=True,help='UTF-8 user research request; choose a topic independent of skill examples')
     p.add_argument('--out',required=True,help='Empty folder under work/evaluation/')
     p.add_argument('--max-turns',type=int,default=18)
     args=p.parse_args()
@@ -124,8 +125,13 @@ def main():
     if out.exists() and any(out.iterdir()): p.error('Use an empty evaluation folder')
     out.mkdir(parents=True,exist_ok=True)
     harness=Harness(out)
+    prompt_path=Path(args.prompt_file).resolve()
+    if prompt_path.suffix != '.txt' or ROOT/'work/evaluation' not in prompt_path.parents:
+        p.error('--prompt-file must be a .txt file under work/evaluation/')
+    user_prompt=prompt_path.read_text().strip()
+    if not user_prompt: p.error('--prompt-file must contain a research request')
     messages=[{'role':'system','content':(ROOT/'SKILL.md').read_text()+'\nYou have wiki/read_file/write_json_file tools. Use them instead of shell. Setup is already complete. All new plans and outputs must be under '+str(out)+'. Do not modify skill code. Finish only after reading generated analysis. Do not claim visual PDF inspection: this harness has no image viewer.'},
-              {'role':'user','content':'Ми думаємо додати курс з астрономії. Досліди останні два повні роки в українській Wikipedia, оціни надійність зростання та підготуй PDF. Можна використати загальну статтю як початковий вузький проксі; поясни обмеження.'}]
+              {'role':'user','content':user_prompt}]
     transcript=[]; finals=[]; followup=False; started=time.time()
     for turn in range(min(args.max_turns,30)):
         response=request(key,args.model,messages,3000)

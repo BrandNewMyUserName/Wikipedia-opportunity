@@ -1,0 +1,5964 @@
+{
+  "items": [
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082500",
+      "views": 14322045
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082501",
+      "views": 14510164
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082502",
+      "views": 14584697
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082503",
+      "views": 14067674
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082504",
+      "views": 13906429
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082505",
+      "views": 13910136
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082506",
+      "views": 15134094
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082507",
+      "views": 15115696
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082508",
+      "views": 15282396
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082509",
+      "views": 15852930
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082510",
+      "views": 17087613
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082511",
+      "views": 18847921
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082512",
+      "views": 19564538
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082513",
+      "views": 20039801
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082514",
+      "views": 20287655
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082515",
+      "views": 20005777
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082516",
+      "views": 19848708
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082517",
+      "views": 20027319
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082518",
+      "views": 21843764
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082519",
+      "views": 23402318
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082520",
+      "views": 22508553
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082521",
+      "views": 19830297
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082522",
+      "views": 17710369
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082523",
+      "views": 15374824
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082600",
+      "views": 15182906
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082601",
+      "views": 16193954
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082602",
+      "views": 15624022
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082603",
+      "views": 14410777
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082604",
+      "views": 14021561
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082605",
+      "views": 14260854
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082606",
+      "views": 15395452
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082607",
+      "views": 15648880
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082608",
+      "views": 15819629
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082609",
+      "views": 15998451
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082610",
+      "views": 16964401
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082611",
+      "views": 18387191
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082612",
+      "views": 19649659
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082613",
+      "views": 20475754
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082614",
+      "views": 20550082
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082615",
+      "views": 20667305
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082616",
+      "views": 21266776
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082617",
+      "views": 21264894
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082618",
+      "views": 21603653
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082619",
+      "views": 22276608
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082620",
+      "views": 21895908
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082621",
+      "views": 19963296
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082622",
+      "views": 16870020
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082623",
+      "views": 15668825
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082700",
+      "views": 15117453
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082701",
+      "views": 15219289
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082702",
+      "views": 15168275
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082703",
+      "views": 14789175
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082704",
+      "views": 14048447
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082705",
+      "views": 14123705
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082706",
+      "views": 15137536
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082707",
+      "views": 15389029
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082708",
+      "views": 15632634
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082709",
+      "views": 16055440
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082710",
+      "views": 16961254
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082711",
+      "views": 18394255
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082712",
+      "views": 19549084
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082713",
+      "views": 20405212
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082714",
+      "views": 20648411
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082715",
+      "views": 20436840
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082716",
+      "views": 20022116
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082717",
+      "views": 20051846
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082718",
+      "views": 20722452
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082719",
+      "views": 21191164
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082720",
+      "views": 20811249
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082721",
+      "views": 18596297
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082722",
+      "views": 15884606
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082723",
+      "views": 14355463
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082800",
+      "views": 13961164
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082801",
+      "views": 13999136
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082802",
+      "views": 13878713
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082803",
+      "views": 13417532
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082804",
+      "views": 13048532
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082805",
+      "views": 13134409
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082806",
+      "views": 14590855
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082807",
+      "views": 15602776
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082808",
+      "views": 15841117
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082809",
+      "views": 17482252
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082810",
+      "views": 18284313
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082811",
+      "views": 18896009
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082812",
+      "views": 19812157
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082813",
+      "views": 20303462
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082814",
+      "views": 20447989
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082815",
+      "views": 20653238
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082816",
+      "views": 20522216
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082817",
+      "views": 20483232
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082818",
+      "views": 22336997
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082819",
+      "views": 21648032
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082820",
+      "views": 21437468
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082821",
+      "views": 19458571
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082822",
+      "views": 17007725
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082823",
+      "views": 15025536
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082900",
+      "views": 14248095
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082901",
+      "views": 14275215
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082902",
+      "views": 14463233
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082903",
+      "views": 13922698
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082904",
+      "views": 13659141
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082905",
+      "views": 14090661
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082906",
+      "views": 14961573
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082907",
+      "views": 15085656
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082908",
+      "views": 15383345
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082909",
+      "views": 15801580
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082910",
+      "views": 16895108
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082911",
+      "views": 18255685
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082912",
+      "views": 19799172
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082913",
+      "views": 20492091
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082914",
+      "views": 21237287
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082915",
+      "views": 21347762
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082916",
+      "views": 21351963
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082917",
+      "views": 20868628
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082918",
+      "views": 21430665
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082919",
+      "views": 22199046
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082920",
+      "views": 22003783
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082921",
+      "views": 20165002
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082922",
+      "views": 17843672
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026082923",
+      "views": 16220705
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083000",
+      "views": 15553844
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083001",
+      "views": 15339913
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083002",
+      "views": 15279726
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083003",
+      "views": 14882010
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083004",
+      "views": 14429174
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083005",
+      "views": 14703192
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083006",
+      "views": 15897348
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083007",
+      "views": 16461468
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083008",
+      "views": 16747390
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083009",
+      "views": 17313092
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083010",
+      "views": 17900740
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083011",
+      "views": 19837316
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083012",
+      "views": 20779811
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083013",
+      "views": 21890200
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083014",
+      "views": 22231929
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083015",
+      "views": 22284568
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083016",
+      "views": 21829142
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083017",
+      "views": 21872938
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083018",
+      "views": 22320013
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083019",
+      "views": 23422031
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083020",
+      "views": 22661466
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083021",
+      "views": 20449981
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083022",
+      "views": 17932859
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083023",
+      "views": 15869743
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083100",
+      "views": 15798333
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083101",
+      "views": 16050928
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083102",
+      "views": 15926543
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083103",
+      "views": 15465673
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083104",
+      "views": 14912632
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083105",
+      "views": 14729999
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083106",
+      "views": 15624471
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083107",
+      "views": 15727836
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083108",
+      "views": 15976271
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083109",
+      "views": 16678758
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083110",
+      "views": 18009363
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083111",
+      "views": 19760412
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083112",
+      "views": 20695558
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083113",
+      "views": 21325710
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083114",
+      "views": 21350361
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083115",
+      "views": 21101242
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083116",
+      "views": 20588903
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083117",
+      "views": 20577608
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083118",
+      "views": 21197400
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083119",
+      "views": 22497115
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083120",
+      "views": 21384920
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083121",
+      "views": 18978547
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083122",
+      "views": 16236326
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026083123",
+      "views": 14587673
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090100",
+      "views": 14365584
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090101",
+      "views": 14528724
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090102",
+      "views": 15145774
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090103",
+      "views": 14694029
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090104",
+      "views": 14228233
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090105",
+      "views": 14333693
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090106",
+      "views": 15149057
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090107",
+      "views": 15253342
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090108",
+      "views": 15778838
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090109",
+      "views": 16928224
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090110",
+      "views": 18099196
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090111",
+      "views": 18760124
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090112",
+      "views": 19542708
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090113",
+      "views": 20217310
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090114",
+      "views": 20497972
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090115",
+      "views": 20408166
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090116",
+      "views": 20354280
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090117",
+      "views": 20750208
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090118",
+      "views": 21586405
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090119",
+      "views": 22454873
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090120",
+      "views": 21853690
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090121",
+      "views": 19368891
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090122",
+      "views": 16846993
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090123",
+      "views": 15286775
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090200",
+      "views": 15095438
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090201",
+      "views": 15383516
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090202",
+      "views": 15836929
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090203",
+      "views": 15366711
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090204",
+      "views": 15075438
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090205",
+      "views": 14955368
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090206",
+      "views": 15822817
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090207",
+      "views": 15880038
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090208",
+      "views": 16002980
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090209",
+      "views": 20469199
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090210",
+      "views": 17495557
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090211",
+      "views": 19038537
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090212",
+      "views": 20346079
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090213",
+      "views": 21061276
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090214",
+      "views": 21260527
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090215",
+      "views": 20885139
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090216",
+      "views": 20304913
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090217",
+      "views": 20393072
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090218",
+      "views": 21162684
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090219",
+      "views": 22044191
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090220",
+      "views": 21508352
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090221",
+      "views": 19174870
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090222",
+      "views": 16689184
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090223",
+      "views": 15292529
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090300",
+      "views": 15385094
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090301",
+      "views": 15530332
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090302",
+      "views": 15652882
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090303",
+      "views": 15270527
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090304",
+      "views": 15420506
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090305",
+      "views": 15396899
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090306",
+      "views": 16144919
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090307",
+      "views": 16228767
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090308",
+      "views": 16381838
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090309",
+      "views": 16729929
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090310",
+      "views": 17618714
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090311",
+      "views": 19283460
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090312",
+      "views": 20624552
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090313",
+      "views": 21344714
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090314",
+      "views": 21258940
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090315",
+      "views": 21288497
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090316",
+      "views": 21021014
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090317",
+      "views": 20964259
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090318",
+      "views": 21290640
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090319",
+      "views": 22029626
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090320",
+      "views": 21544257
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090321",
+      "views": 19306204
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090322",
+      "views": 16725847
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090323",
+      "views": 15358128
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090400",
+      "views": 15109784
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090401",
+      "views": 15501436
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090402",
+      "views": 16670128
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090403",
+      "views": 16987685
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090404",
+      "views": 17042194
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090405",
+      "views": 17109303
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090406",
+      "views": 17549728
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090407",
+      "views": 17307031
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090408",
+      "views": 15852770
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090409",
+      "views": 16143454
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090410",
+      "views": 16930683
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090411",
+      "views": 18671857
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090412",
+      "views": 20096759
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090413",
+      "views": 20498518
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090414",
+      "views": 20636017
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090415",
+      "views": 20794700
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090416",
+      "views": 20411004
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090417",
+      "views": 21018974
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090418",
+      "views": 21245800
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090419",
+      "views": 22550419
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090420",
+      "views": 21861416
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090421",
+      "views": 20041509
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090422",
+      "views": 17414636
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090423",
+      "views": 15701492
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090500",
+      "views": 15281489
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090501",
+      "views": 15413433
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090502",
+      "views": 15436535
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090503",
+      "views": 15149945
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090504",
+      "views": 14776061
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090505",
+      "views": 14883943
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090506",
+      "views": 15792030
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090507",
+      "views": 16028791
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090508",
+      "views": 16168282
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090509",
+      "views": 16336389
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090510",
+      "views": 16886830
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090511",
+      "views": 18206966
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090512",
+      "views": 19530292
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090513",
+      "views": 20542961
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090514",
+      "views": 20793398
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090515",
+      "views": 21119571
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090516",
+      "views": 20934762
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090517",
+      "views": 21325463
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090518",
+      "views": 23277186
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090519",
+      "views": 23361862
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090520",
+      "views": 23205180
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090521",
+      "views": 21272065
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090522",
+      "views": 17994888
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090523",
+      "views": 16133534
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090600",
+      "views": 15607753
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090601",
+      "views": 15437630
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090602",
+      "views": 15703350
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090603",
+      "views": 15540906
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090604",
+      "views": 14831136
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090605",
+      "views": 14841198
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090606",
+      "views": 15795357
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090607",
+      "views": 16243847
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090608",
+      "views": 16543225
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090609",
+      "views": 16973274
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090610",
+      "views": 17600034
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090611",
+      "views": 19103838
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090612",
+      "views": 20234717
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090613",
+      "views": 21094888
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090614",
+      "views": 21418655
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090615",
+      "views": 21806850
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090616",
+      "views": 21789579
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090617",
+      "views": 21961704
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090618",
+      "views": 22736110
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090619",
+      "views": 23435913
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090620",
+      "views": 22394053
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090621",
+      "views": 19921866
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090622",
+      "views": 17149144
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090623",
+      "views": 15481989
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090700",
+      "views": 15310045
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090701",
+      "views": 15695913
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090702",
+      "views": 15823662
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090703",
+      "views": 15531708
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090704",
+      "views": 15190478
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090705",
+      "views": 15343865
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090706",
+      "views": 16097445
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090707",
+      "views": 15965767
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090708",
+      "views": 16068380
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090709",
+      "views": 16275982
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090710",
+      "views": 16998105
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090711",
+      "views": 18684723
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090712",
+      "views": 20061767
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090713",
+      "views": 20665091
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090714",
+      "views": 20886542
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090715",
+      "views": 20747788
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090716",
+      "views": 20541472
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090717",
+      "views": 20912308
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090718",
+      "views": 21735677
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090719",
+      "views": 22715274
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090720",
+      "views": 22040230
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090721",
+      "views": 19738272
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090722",
+      "views": 17060014
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090723",
+      "views": 15608789
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090800",
+      "views": 15395507
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090801",
+      "views": 15695459
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090802",
+      "views": 15491696
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090803",
+      "views": 15034939
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090804",
+      "views": 14559006
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090805",
+      "views": 14718127
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090806",
+      "views": 15482588
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090807",
+      "views": 15649391
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090808",
+      "views": 15584689
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090809",
+      "views": 15841031
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090810",
+      "views": 16747368
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090811",
+      "views": 18527973
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090812",
+      "views": 19606970
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090813",
+      "views": 20327059
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090814",
+      "views": 20439034
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090815",
+      "views": 20349425
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090816",
+      "views": 19941061
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090817",
+      "views": 20204876
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090818",
+      "views": 21651250
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090819",
+      "views": 22112744
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090820",
+      "views": 21619562
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090821",
+      "views": 19107024
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090822",
+      "views": 16425055
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090823",
+      "views": 14858740
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090900",
+      "views": 15088787
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090901",
+      "views": 15413909
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090902",
+      "views": 15253907
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090903",
+      "views": 14853351
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090904",
+      "views": 14598521
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090905",
+      "views": 14842636
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090906",
+      "views": 15937309
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090907",
+      "views": 16072516
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090908",
+      "views": 16215661
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090909",
+      "views": 16434575
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090910",
+      "views": 17359713
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090911",
+      "views": 18996126
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090912",
+      "views": 20156860
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090913",
+      "views": 20708538
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090914",
+      "views": 20680538
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090915",
+      "views": 20480038
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090916",
+      "views": 19905015
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090917",
+      "views": 20078477
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090918",
+      "views": 21060708
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090919",
+      "views": 21847141
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090920",
+      "views": 21285103
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090921",
+      "views": 18855441
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090922",
+      "views": 16129475
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026090923",
+      "views": 14683735
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091000",
+      "views": 14794559
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091001",
+      "views": 15127783
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091002",
+      "views": 14964037
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091003",
+      "views": 14519986
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091004",
+      "views": 14175995
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091005",
+      "views": 14433750
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091006",
+      "views": 15409587
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091007",
+      "views": 15484265
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091008",
+      "views": 15607907
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091009",
+      "views": 15926540
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091010",
+      "views": 16919961
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091011",
+      "views": 18284963
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091012",
+      "views": 19654129
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091013",
+      "views": 20384259
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091014",
+      "views": 20410864
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091015",
+      "views": 20052799
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091016",
+      "views": 19836257
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091017",
+      "views": 20029179
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091018",
+      "views": 20938278
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091019",
+      "views": 22017042
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091020",
+      "views": 21313121
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091021",
+      "views": 19023058
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091022",
+      "views": 16451937
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091023",
+      "views": 15245663
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091100",
+      "views": 14983086
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091101",
+      "views": 15221945
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091102",
+      "views": 15285002
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091103",
+      "views": 14631053
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091104",
+      "views": 13957118
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091105",
+      "views": 14236743
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091106",
+      "views": 15387353
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091107",
+      "views": 15548913
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091108",
+      "views": 15705073
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091109",
+      "views": 16135324
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091110",
+      "views": 16952725
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091111",
+      "views": 18357895
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091112",
+      "views": 19914536
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091113",
+      "views": 21023244
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091114",
+      "views": 21214074
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091115",
+      "views": 20705710
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091116",
+      "views": 20542684
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091117",
+      "views": 20737362
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091118",
+      "views": 21506021
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091119",
+      "views": 22454594
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091120",
+      "views": 22196272
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091121",
+      "views": 20310528
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091122",
+      "views": 17694420
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091123",
+      "views": 15917534
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091200",
+      "views": 15411552
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091201",
+      "views": 15402574
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091202",
+      "views": 14633129
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091203",
+      "views": 15202977
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091204",
+      "views": 14605701
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091205",
+      "views": 14691856
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091206",
+      "views": 15590754
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091207",
+      "views": 15849831
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091208",
+      "views": 15970161
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091209",
+      "views": 16416921
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091210",
+      "views": 17113658
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091211",
+      "views": 18549490
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091212",
+      "views": 19990378
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091213",
+      "views": 20797131
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091214",
+      "views": 21112871
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091215",
+      "views": 21252994
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091216",
+      "views": 21166651
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091217",
+      "views": 21287398
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091218",
+      "views": 22248450
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091219",
+      "views": 23131319
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091220",
+      "views": 23141769
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091221",
+      "views": 21521064
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091222",
+      "views": 19108757
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091223",
+      "views": 17132563
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091300",
+      "views": 16235198
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091301",
+      "views": 16003494
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091302",
+      "views": 15916834
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091303",
+      "views": 15751290
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091304",
+      "views": 15180856
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091305",
+      "views": 15269373
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091306",
+      "views": 16336860
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091307",
+      "views": 16882361
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091308",
+      "views": 17289443
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091309",
+      "views": 17814930
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091310",
+      "views": 18520531
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091311",
+      "views": 20079381
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091312",
+      "views": 21441516
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091313",
+      "views": 22210172
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091314",
+      "views": 23253594
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091315",
+      "views": 22901063
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091316",
+      "views": 22702166
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091317",
+      "views": 22808346
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091318",
+      "views": 24133152
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091319",
+      "views": 24796647
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091320",
+      "views": 23581618
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091321",
+      "views": 21286458
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091322",
+      "views": 18571074
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091323",
+      "views": 16297712
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091400",
+      "views": 16094366
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091401",
+      "views": 16061918
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091402",
+      "views": 16249346
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091403",
+      "views": 15638056
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091404",
+      "views": 15386578
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091405",
+      "views": 15537014
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091406",
+      "views": 16424215
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091407",
+      "views": 15962280
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091408",
+      "views": 16333346
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091409",
+      "views": 16914413
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091410",
+      "views": 17974674
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091411",
+      "views": 19322047
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091412",
+      "views": 22050854
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091413",
+      "views": 21976296
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091414",
+      "views": 21658499
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091415",
+      "views": 20946505
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091416",
+      "views": 20713473
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091417",
+      "views": 20796418
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091418",
+      "views": 21704849
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091419",
+      "views": 22588637
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091420",
+      "views": 21615846
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091421",
+      "views": 19141689
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091422",
+      "views": 16619816
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091423",
+      "views": 15547930
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091500",
+      "views": 15649065
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091501",
+      "views": 16106392
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091502",
+      "views": 15970158
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091503",
+      "views": 15310598
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091504",
+      "views": 14786161
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091505",
+      "views": 15318587
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091506",
+      "views": 16062694
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091507",
+      "views": 15860650
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091508",
+      "views": 15729170
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091509",
+      "views": 16180602
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091510",
+      "views": 17189643
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091511",
+      "views": 18917973
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091512",
+      "views": 20064254
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091513",
+      "views": 20599387
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091514",
+      "views": 20888108
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091515",
+      "views": 20633963
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091516",
+      "views": 20440786
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091517",
+      "views": 20666127
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091518",
+      "views": 21586104
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091519",
+      "views": 22332904
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091520",
+      "views": 21533233
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091521",
+      "views": 18976449
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091522",
+      "views": 16233724
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091523",
+      "views": 15147715
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091600",
+      "views": 15243994
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091601",
+      "views": 15551316
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091602",
+      "views": 15251567
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091603",
+      "views": 14831240
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091604",
+      "views": 14398915
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091605",
+      "views": 14758637
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091606",
+      "views": 15781456
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091607",
+      "views": 15948107
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091608",
+      "views": 15888853
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091609",
+      "views": 16304382
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091610",
+      "views": 17183850
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091611",
+      "views": 18833337
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091612",
+      "views": 20099044
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091613",
+      "views": 20728536
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091614",
+      "views": 20628632
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091615",
+      "views": 20497302
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091616",
+      "views": 20115320
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091617",
+      "views": 20439954
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091618",
+      "views": 21449814
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091619",
+      "views": 22198291
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091620",
+      "views": 21113739
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091621",
+      "views": 18659002
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091622",
+      "views": 16216006
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091623",
+      "views": 15138142
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091700",
+      "views": 14806610
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091701",
+      "views": 15335677
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091702",
+      "views": 15071115
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091703",
+      "views": 15079261
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091704",
+      "views": 14778628
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091705",
+      "views": 14593034
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091706",
+      "views": 15465285
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091707",
+      "views": 15603490
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091708",
+      "views": 15742765
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091709",
+      "views": 16003734
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091710",
+      "views": 17045846
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091711",
+      "views": 18661898
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091712",
+      "views": 20087147
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091713",
+      "views": 20734118
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091714",
+      "views": 20781953
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091715",
+      "views": 20432662
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091716",
+      "views": 20154590
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091717",
+      "views": 20531052
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091718",
+      "views": 21503982
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091719",
+      "views": 22289748
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091720",
+      "views": 21506859
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091721",
+      "views": 18857946
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091722",
+      "views": 16035757
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091723",
+      "views": 14626498
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091800",
+      "views": 14644707
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091801",
+      "views": 14881654
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091802",
+      "views": 14717665
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091803",
+      "views": 14299175
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091804",
+      "views": 13853610
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091805",
+      "views": 14038383
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091806",
+      "views": 15026039
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091807",
+      "views": 15067765
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091808",
+      "views": 15408164
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091809",
+      "views": 15747188
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091810",
+      "views": 16546811
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091811",
+      "views": 17977437
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091812",
+      "views": 19422822
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091813",
+      "views": 19952365
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091814",
+      "views": 20176150
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091815",
+      "views": 19967315
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091816",
+      "views": 19675468
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091817",
+      "views": 19928204
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091818",
+      "views": 20756774
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091819",
+      "views": 21597504
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091820",
+      "views": 21053224
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091821",
+      "views": 19101110
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091822",
+      "views": 16378945
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091823",
+      "views": 14745509
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091900",
+      "views": 14199787
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091901",
+      "views": 14254811
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091902",
+      "views": 14303924
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091903",
+      "views": 14288825
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091904",
+      "views": 14017727
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091905",
+      "views": 14086857
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091906",
+      "views": 15015927
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091907",
+      "views": 15167532
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091908",
+      "views": 15558816
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091909",
+      "views": 15929406
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091910",
+      "views": 16579284
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091911",
+      "views": 18201219
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091912",
+      "views": 19432851
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091913",
+      "views": 20295053
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091914",
+      "views": 20754519
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091915",
+      "views": 20704094
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091916",
+      "views": 20569627
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091917",
+      "views": 20515175
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091918",
+      "views": 21627583
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091919",
+      "views": 22873121
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091920",
+      "views": 22301841
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091921",
+      "views": 20252966
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091922",
+      "views": 17704274
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026091923",
+      "views": 16029085
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092000",
+      "views": 15599809
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092001",
+      "views": 15487285
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092002",
+      "views": 15504759
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092003",
+      "views": 15119308
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092004",
+      "views": 14604183
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092005",
+      "views": 14572018
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092006",
+      "views": 15801070
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092007",
+      "views": 16233838
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092008",
+      "views": 16640472
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092009",
+      "views": 17126708
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092010",
+      "views": 17698746
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092011",
+      "views": 19187018
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092012",
+      "views": 20537684
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092013",
+      "views": 21448399
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092014",
+      "views": 21836153
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092015",
+      "views": 22186978
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092016",
+      "views": 22180905
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092017",
+      "views": 22144139
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092018",
+      "views": 23399317
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092019",
+      "views": 24069384
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092020",
+      "views": 23029355
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092021",
+      "views": 20261413
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092022",
+      "views": 17302939
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092023",
+      "views": 15772536
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092100",
+      "views": 15849844
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092101",
+      "views": 15871783
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092102",
+      "views": 15499769
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092103",
+      "views": 14874151
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092104",
+      "views": 14741967
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092105",
+      "views": 14947239
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092106",
+      "views": 16094781
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092107",
+      "views": 16556459
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092108",
+      "views": 16606161
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092109",
+      "views": 16850660
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092110",
+      "views": 17933215
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092111",
+      "views": 19075271
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092112",
+      "views": 20372545
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092113",
+      "views": 21021232
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092114",
+      "views": 21304027
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092115",
+      "views": 20888596
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092116",
+      "views": 20607487
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092117",
+      "views": 20652405
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092118",
+      "views": 21611275
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092119",
+      "views": 22379499
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092120",
+      "views": 21625626
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092121",
+      "views": 18967368
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092122",
+      "views": 16276353
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092123",
+      "views": 15166019
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092200",
+      "views": 14808932
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092201",
+      "views": 15253674
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092202",
+      "views": 15734953
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092203",
+      "views": 15122589
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092204",
+      "views": 14725717
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092205",
+      "views": 14634221
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092206",
+      "views": 15325544
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092207",
+      "views": 15496760
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092208",
+      "views": 15241622
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092209",
+      "views": 15669762
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092210",
+      "views": 17130266
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092211",
+      "views": 21218400
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092212",
+      "views": 21676948
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092213",
+      "views": 22111476
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092214",
+      "views": 21462734
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092215",
+      "views": 20826874
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092216",
+      "views": 20354711
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092217",
+      "views": 20429138
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092218",
+      "views": 21288753
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092219",
+      "views": 22112733
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092220",
+      "views": 21202986
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092221",
+      "views": 18546427
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092222",
+      "views": 16053663
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092223",
+      "views": 14774513
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092300",
+      "views": 15305233
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092301",
+      "views": 15600851
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092302",
+      "views": 15191644
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092303",
+      "views": 14753393
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092304",
+      "views": 14478627
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092305",
+      "views": 14616799
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092306",
+      "views": 15543804
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092307",
+      "views": 15395360
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092308",
+      "views": 15961443
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092309",
+      "views": 16266742
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092310",
+      "views": 17200481
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092311",
+      "views": 18441682
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092312",
+      "views": 19872089
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092313",
+      "views": 20757206
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092314",
+      "views": 20671849
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092315",
+      "views": 20187745
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092316",
+      "views": 20168345
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092317",
+      "views": 19098265
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092318",
+      "views": 21001454
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092319",
+      "views": 21997328
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092320",
+      "views": 20936472
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092321",
+      "views": 18699452
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092322",
+      "views": 16083320
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092323",
+      "views": 14741975
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092400",
+      "views": 14730535
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092401",
+      "views": 15961982
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092402",
+      "views": 16635738
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092403",
+      "views": 16975057
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092404",
+      "views": 16026894
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092405",
+      "views": 15272808
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092406",
+      "views": 15817710
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092407",
+      "views": 15635142
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092408",
+      "views": 15369721
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092409",
+      "views": 15864784
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092410",
+      "views": 16756474
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092411",
+      "views": 18176578
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092412",
+      "views": 19317814
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092413",
+      "views": 20155178
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092414",
+      "views": 20081736
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092415",
+      "views": 19805616
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092416",
+      "views": 19672891
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092417",
+      "views": 19953780
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092418",
+      "views": 20837444
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092419",
+      "views": 21474266
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092420",
+      "views": 20746180
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092421",
+      "views": 18207071
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092422",
+      "views": 15541640
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092423",
+      "views": 14075682
+    },
+    {
+      "project": "all-projects",
+      "access": "all-access",
+      "agent": "user",
+      "granularity": "hourly",
+      "timestamp": "2026092500",
+      "views": 13958810
+    }
+  ]
+}

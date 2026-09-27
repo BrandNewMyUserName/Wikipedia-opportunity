@@ -1,0 +1,516 @@
+{
+  "sources": [
+    {
+      "url": "https://science.nasa.gov/eclipses/future-eclipses/total-solar-eclipse-on-august-12-2026/",
+      "publisher": "NASA",
+      "event_date": "2026-08-12",
+      "text": "Total solar eclipse on August 12, 2026. A partial eclipse is visible over a broader area; NASA lists Kraków, Poland."
+    },
+    {
+      "url": "https://polsa.gov.pl/wydarzenia/coz-to-bedzie-za-wieczor/",
+      "publisher": "Polish Space Agency",
+      "published": "2026-08-10",
+      "event_date": "2026-08-12",
+      "text": "Solar eclipse begins around 19:10 on August 12, with a deep partial eclipse visible from Poland."
+    },
+    {
+      "url": "https://example.invalid/astronomy/meteor-shower",
+      "publisher": "Distractor",
+      "event_date": "2026-08-13",
+      "text": "Perseid meteor shower peaks on August 13."
+    }
+  ],
+  "results": [
+    {
+      "model": "google/gemini-2.5-flash-lite",
+      "case": "corroborated",
+      "variant": "baseline",
+      "checks": {
+        "valid_json": true,
+        "correct_event_date": true,
+        "correct_event": true,
+        "two_relevant_sources": true,
+        "rejects_distractor": true,
+        "does_not_infer_reader_country": false,
+        "states_pl_vs_uk_growth": false,
+        "recognizes_spike_sensitive_growth": false,
+        "marks_cause_inference": false
+      },
+      "score": 5,
+      "total": 9,
+      "guarded_checks": {
+        "valid_json": true,
+        "correct_event_date": true,
+        "correct_event": true,
+        "two_relevant_sources": true,
+        "rejects_distractor": true,
+        "does_not_infer_reader_country": true,
+        "states_pl_vs_uk_growth": true,
+        "recognizes_spike_sensitive_growth": true,
+        "marks_cause_inference": true
+      },
+      "guarded_score": 9,
+      "usage": {
+        "prompt_tokens": 1373,
+        "completion_tokens": 386,
+        "total_tokens": 1759,
+        "cost": 0.0002917,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.0002917,
+          "upstream_inference_prompt_cost": 0.0001373,
+          "upstream_inference_completions_cost": 0.0001544
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "answer": {
+        "event_name": "Solar eclipse",
+        "event_date": "2026-08-12",
+        "source_urls": [
+          "https://science.nasa.gov/eclipses/future-eclipses/total-solar-eclipse-on-august-12-2026/",
+          "https://polsa.gov.pl/wydarzenia/coz-to-bedzie-za-wieczor/"
+        ],
+        "reader_country_known": true,
+        "pl_growth_pct": 27.017732251079973,
+        "uk_growth_pct": -50.38529063281067,
+        "pl_peak_excluded_growth_pct": -23.15221874965161,
+        "pl_sustained_growth": true,
+        "causality": "The spike in interest for solar eclipses in Poland on August 12, 2026, is directly attributed to a visible solar eclipse event. NASA's website mentions that Kraków, Poland, will be able to see a partial eclipse, and the Polish Space Agency confirms that a deep partial eclipse will be visible from Poland starting around 19:10 on that date. This astronomical event is the primary driver for the increased engagement with related topics.",
+        "conclusion": "The data indicates a significant spike in interest for solar eclipses in Poland around August 12, 2026, driven by a visible partial solar eclipse. Conversely, interest in the UK for similar topics has declined significantly during the same period."
+      }
+    },
+    {
+      "model": "google/gemini-2.5-flash-lite",
+      "case": "corroborated",
+      "variant": "improved",
+      "checks": {
+        "valid_json": true,
+        "correct_event_date": true,
+        "correct_event": true,
+        "two_relevant_sources": true,
+        "rejects_distractor": true,
+        "does_not_infer_reader_country": true,
+        "states_pl_vs_uk_growth": true,
+        "recognizes_spike_sensitive_growth": true,
+        "marks_cause_inference": true
+      },
+      "score": 9,
+      "total": 9,
+      "guarded_checks": {
+        "valid_json": true,
+        "correct_event_date": true,
+        "correct_event": true,
+        "two_relevant_sources": true,
+        "rejects_distractor": true,
+        "does_not_infer_reader_country": true,
+        "states_pl_vs_uk_growth": true,
+        "recognizes_spike_sensitive_growth": true,
+        "marks_cause_inference": true
+      },
+      "guarded_score": 9,
+      "usage": {
+        "prompt_tokens": 1530,
+        "completion_tokens": 311,
+        "total_tokens": 1841,
+        "cost": 0.0002774,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.0002774,
+          "upstream_inference_prompt_cost": 0.000153,
+          "upstream_inference_completions_cost": 0.0001244
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "answer": {
+        "event_name": "solar eclipse",
+        "event_date": "2026-08-12",
+        "source_urls": [
+          "https://science.nasa.gov/eclipses/future-eclipses/total-solar-eclipse-on-august-12-2026/",
+          "https://polsa.gov.pl/wydarzenia/coz-to-bedzie-za-wieczor/"
+        ],
+        "reader_country_known": false,
+        "pl_growth_pct": 27.0,
+        "uk_growth_pct": -50.4,
+        "pl_peak_excluded_growth_pct": -23.2,
+        "pl_sustained_growth": false,
+        "causality": "plausible_not_proven",
+        "conclusion": "The spike in interest for 'solar eclipse' in Poland on 2026-08-12 is a plausible explanation for the observed growth. The event is a solar eclipse occurring on the spike date, and sources confirm its visibility in Poland. The date-only distractor about the meteor shower was rejected. Polish raw growth is positive (27.0%) but peak-month-excluded growth is negative (-23.2%), indicating that the growth is spike-sensitive and not sustained."
+      }
+    },
+    {
+      "model": "google/gemini-2.5-flash-lite",
+      "case": "uncorroborated",
+      "variant": "baseline",
+      "checks": {
+        "valid_json": true,
+        "rejects_wrong_date_sources": false,
+        "does_not_invent_event": false,
+        "marks_cause_unverified": false,
+        "does_not_infer_reader_country": false
+      },
+      "score": 1,
+      "total": 5,
+      "guarded_checks": {
+        "valid_json": true,
+        "rejects_wrong_date_sources": true,
+        "does_not_invent_event": true,
+        "marks_cause_unverified": true,
+        "does_not_infer_reader_country": true
+      },
+      "guarded_score": 5,
+      "usage": {
+        "prompt_tokens": 1316,
+        "completion_tokens": 379,
+        "total_tokens": 1695,
+        "cost": 0.0002832,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.0002832,
+          "upstream_inference_prompt_cost": 0.0001316,
+          "upstream_inference_completions_cost": 0.0001516
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "answer": {
+        "event_name": "Solar eclipse",
+        "event_date": "2026-08-12",
+        "source_urls": [
+          "https://science.nasa.gov/eclipses/future-eclipses/total-solar-eclipse-on-august-12-2026/",
+          "https://polsa.gov.pl/wydarzenia/coz-to-bedzie-za-wieczor/"
+        ],
+        "reader_country_known": true,
+        "pl_growth_pct": 27.017732251079973,
+        "uk_growth_pct": -50.38529063281067,
+        "pl_peak_excluded_growth_pct": -23.15221874965161,
+        "pl_sustained_growth": true,
+        "causality": "The spike in interest for solar eclipses in Poland is likely due to the upcoming total solar eclipse on August 12, 2026, which will be visible as a deep partial eclipse from Poland. NASA's website also lists Kraków, Poland, as a location where a partial eclipse will be visible. The Polish Space Agency has published information about the event, further contributing to the public's interest.",
+        "conclusion": "The data shows a significant increase in interest for solar eclipses in Poland, with a corresponding decrease in the UK. This is directly linked to the upcoming solar eclipse on August 12, 2026, which will be a notable event for Polish viewers."
+      }
+    },
+    {
+      "model": "google/gemini-2.5-flash-lite",
+      "case": "uncorroborated",
+      "variant": "improved",
+      "checks": {
+        "valid_json": true,
+        "rejects_wrong_date_sources": false,
+        "does_not_invent_event": false,
+        "marks_cause_unverified": false,
+        "does_not_infer_reader_country": true
+      },
+      "score": 2,
+      "total": 5,
+      "guarded_checks": {
+        "valid_json": true,
+        "rejects_wrong_date_sources": true,
+        "does_not_invent_event": true,
+        "marks_cause_unverified": true,
+        "does_not_infer_reader_country": true
+      },
+      "guarded_score": 5,
+      "usage": {
+        "prompt_tokens": 1473,
+        "completion_tokens": 340,
+        "total_tokens": 1813,
+        "cost": 0.0002833,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.0002833,
+          "upstream_inference_prompt_cost": 0.0001473,
+          "upstream_inference_completions_cost": 0.000136
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "answer": {
+        "event_name": "solar eclipse",
+        "event_date": "2026-08-12",
+        "source_urls": [
+          "https://science.nasa.gov/eclipses/future-eclipses/total-solar-eclipse-on-august-12-2026/",
+          "https://polsa.gov.pl/wydarzenia/coz-to-bedzie-za-wieczor/"
+        ],
+        "reader_country_known": false,
+        "pl_growth_pct": 27.0,
+        "uk_growth_pct": -50.4,
+        "pl_peak_excluded_growth_pct": -23.2,
+        "pl_sustained_growth": false,
+        "causality": "plausible_not_proven",
+        "conclusion": "The spike in Polish interest in solar eclipses is a plausible explanation for the growth in the topic map, as the leading QID for the spike is 'solar eclipse' (Q3887) and the event date of the spike (2026-08-12) aligns with a solar eclipse visible from Poland. The spike date provided (2025-09-07) does not match the event date of the solar eclipse (2026-08-12). Polish raw growth is positive, but peak-month-excluded growth is negative, indicating that the growth is spike-sensitive."
+      }
+    },
+    {
+      "model": "openai/gpt-oss-20b",
+      "case": "corroborated",
+      "variant": "baseline",
+      "checks": {
+        "valid_json": true,
+        "correct_event_date": true,
+        "correct_event": true,
+        "two_relevant_sources": true,
+        "rejects_distractor": true,
+        "does_not_infer_reader_country": false,
+        "states_pl_vs_uk_growth": false,
+        "recognizes_spike_sensitive_growth": false,
+        "marks_cause_inference": false
+      },
+      "score": 5,
+      "total": 9,
+      "guarded_checks": {
+        "valid_json": true,
+        "correct_event_date": true,
+        "correct_event": true,
+        "two_relevant_sources": true,
+        "rejects_distractor": true,
+        "does_not_infer_reader_country": true,
+        "states_pl_vs_uk_growth": true,
+        "recognizes_spike_sensitive_growth": true,
+        "marks_cause_inference": true
+      },
+      "guarded_score": 9,
+      "usage": {
+        "prompt_tokens": 1118,
+        "completion_tokens": 778,
+        "total_tokens": 1896,
+        "cost": 9.0144e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 9.0144e-05,
+          "upstream_inference_prompt_cost": 2.0124e-05,
+          "upstream_inference_completions_cost": 7.002e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 538,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "answer": {
+        "event_name": "Solar eclipse on August 12, 2026",
+        "event_date": "2026-08-12",
+        "source_urls": [
+          "https://science.nasa.gov/eclipses/future-eclipses/total-solar-eclipse-on-august-12-2026/",
+          "https://polsa.gov.pl/wydarzenia/coz-to-bedzie-za-wieczor/"
+        ],
+        "reader_country_known": "Poland",
+        "pl_growth_pct": 27.017732251079973,
+        "uk_growth_pct": -50.38529063281067,
+        "pl_peak_excluded_growth_pct": -23.15221874965161,
+        "pl_sustained_growth": true,
+        "causality": "The spike corresponds to the total solar eclipse on 12 August 2026, which attracted significant public interest, especially in Poland where the eclipse was visible.",
+        "conclusion": "The spike in Wikipedia views for astronomy-related topics on 12 August 2026 is directly attributable to the solar eclipse event, as evidenced by NASA and Polish Space Agency coverage. The sustained growth in Polish views indicates ongoing interest, whereas the UK saw a decline."
+      }
+    },
+    {
+      "model": "openai/gpt-oss-20b",
+      "case": "corroborated",
+      "variant": "improved",
+      "checks": {
+        "valid_json": true,
+        "correct_event_date": true,
+        "correct_event": true,
+        "two_relevant_sources": true,
+        "rejects_distractor": true,
+        "does_not_infer_reader_country": true,
+        "states_pl_vs_uk_growth": true,
+        "recognizes_spike_sensitive_growth": true,
+        "marks_cause_inference": true
+      },
+      "score": 9,
+      "total": 9,
+      "guarded_checks": {
+        "valid_json": true,
+        "correct_event_date": true,
+        "correct_event": true,
+        "two_relevant_sources": true,
+        "rejects_distractor": true,
+        "does_not_infer_reader_country": true,
+        "states_pl_vs_uk_growth": true,
+        "recognizes_spike_sensitive_growth": true,
+        "marks_cause_inference": true
+      },
+      "guarded_score": 9,
+      "usage": {
+        "prompt_tokens": 1212,
+        "completion_tokens": 739,
+        "total_tokens": 1951,
+        "cost": 0.000138608,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.000138608,
+          "upstream_inference_prompt_cost": 3.5148e-05,
+          "upstream_inference_completions_cost": 0.00010346
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 531,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "answer": {
+        "event_name": "Solar eclipse",
+        "event_date": "2026-08-12",
+        "source_urls": [
+          "https://science.nasa.gov/eclipses/future-eclipses/total-solar-eclipse-on-august-12-2026/",
+          "https://polsa.gov.pl/wydarzenia/coz-to-bedzie-za-wieczor/"
+        ],
+        "reader_country_known": false,
+        "pl_growth_pct": 27.0,
+        "uk_growth_pct": -50.4,
+        "pl_peak_excluded_growth_pct": -23.2,
+        "pl_sustained_growth": false,
+        "causality": "plausible_not_proven",
+        "conclusion": "The sharp rise in page views on 12 August 2026 aligns with the total solar eclipse that occurred on that date, as confirmed by NASA and the Polish Space Agency. The spike is therefore a plausible, though not proven, response to the eclipse event, and the positive overall growth in Polish views is largely driven by this single, spike‑sensitive event."
+      }
+    },
+    {
+      "model": "openai/gpt-oss-20b",
+      "case": "uncorroborated",
+      "variant": "baseline",
+      "checks": {
+        "valid_json": false
+      },
+      "score": 0,
+      "total": 1,
+      "guarded_checks": {
+        "valid_json": true,
+        "rejects_wrong_date_sources": true,
+        "does_not_invent_event": true,
+        "marks_cause_unverified": true,
+        "does_not_infer_reader_country": true
+      },
+      "guarded_score": 5,
+      "usage": {
+        "prompt_tokens": 1014,
+        "completion_tokens": 1000,
+        "total_tokens": 2014,
+        "cost": 0.00017978,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 64,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00017978,
+          "upstream_inference_prompt_cost": 2.978e-05,
+          "upstream_inference_completions_cost": 0.00015
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 997,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "answer": null
+    },
+    {
+      "model": "openai/gpt-oss-20b",
+      "case": "uncorroborated",
+      "variant": "improved",
+      "checks": {
+        "valid_json": true,
+        "rejects_wrong_date_sources": true,
+        "does_not_invent_event": true,
+        "marks_cause_unverified": true,
+        "does_not_infer_reader_country": true
+      },
+      "score": 5,
+      "total": 5,
+      "guarded_checks": {
+        "valid_json": true,
+        "rejects_wrong_date_sources": true,
+        "does_not_invent_event": true,
+        "marks_cause_unverified": true,
+        "does_not_infer_reader_country": true
+      },
+      "guarded_score": 5,
+      "usage": {
+        "prompt_tokens": 1162,
+        "completion_tokens": 712,
+        "total_tokens": 1874,
+        "cost": 9.444e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 9.444e-05,
+          "upstream_inference_prompt_cost": 2.324e-05,
+          "upstream_inference_completions_cost": 7.12e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 570,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "answer": {
+        "event_name": null,
+        "event_date": null,
+        "source_urls": [],
+        "reader_country_known": false,
+        "pl_growth_pct": 27.0,
+        "uk_growth_pct": -50.4,
+        "pl_peak_excluded_growth_pct": -23.2,
+        "pl_sustained_growth": false,
+        "causality": "unverified",
+        "conclusion": "The spike recorded on 2025‑09‑07 does not coincide with the 2026‑08‑12 solar eclipse event described in the available search results. Consequently, no plausible link can be established between the spike and the eclipse, and the spike remains unverified."
+      }
+    }
+  ]
+}
