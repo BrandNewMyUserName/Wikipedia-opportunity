@@ -33,9 +33,12 @@ def render(analysis, out):
             w.writerows({'series':s['id'], **m} for m in s['monthly'])
     fig, axes = plt.subplots(1, 2, figsize=(10.3, 3.0), layout='constrained')
     for i,s in enumerate(analysis['series']):
+        label = s.get('label') or s['id']
+        if label != s['id'] and not label.startswith(f'{s["id"]}:'):
+            label = f'{s["id"]}: {label}'
         for ax, key in zip(axes, ('views','views_per_million')):
             vals = [m[key] if m[key] is not None else float('nan') for m in s['monthly']]
-            ax.plot(range(len(vals)), vals, label=s['id'], color=COLORS[i], lw=1.7)
+            ax.plot(range(len(vals)), vals, label=label, color=COLORS[i], lw=1.7)
             keys = [m['month'] for m in s['monthly']]
             ticks = list(range(0,len(vals),max(1,len(vals)//5)))
             ax.set_xticks(ticks,[keys[t] for t in ticks], rotation=25, fontsize=8)
@@ -43,8 +46,17 @@ def render(analysis, out):
             ax.spines[['top','right']].set_visible(False)
             ax.tick_params(axis='y', labelsize=8)
     axes[0].set_title('Monthly article views', loc='left', fontsize=11)
-    axes[1].set_title('Views per million edition views', loc='left', fontsize=11)
-    axes[0].legend(fontsize=7, frameon=False)
+    axes[1].set_title('Adjusted for edition traffic', loc='left', fontsize=11)
+    for ax in axes:
+        ax.set_xlabel('Month (UTC)', fontsize=9)
+    axes[0].set_ylabel('Page views / month', fontsize=9)
+    axes[1].set_ylabel('Views per 1M edition views', fontsize=9)
+    if len(analysis['series']) > 2:
+        handles, labels = axes[0].get_legend_handles_labels()
+        fig.legend(handles, labels, loc='outside lower center', ncol=min(3, len(labels)),
+                   fontsize=8, frameon=False)
+    else:
+        axes[0].legend(fontsize=8, frameon=False)
     fig.savefig(out / 'trend.png', dpi=170)
     plt.close(fig)
     make_pdf(analysis, out)
