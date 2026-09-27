@@ -1,5 +1,7 @@
 # Development, evaluation and iterative roadmap
 
+For the 2026-09-26 topic-map expansion, see [live Wikimedia and OpenRouter evaluation](../evaluation/topic-map-2026-09-26.md). The map evaluation script is `scripts/evaluate_topic_map.py`; it loads `.env` through `python-dotenv` into `OPEN_ROUTER_API_KEY` without printing the key. Its fixture tests date/topic/source discrimination, while `verify-spike` supplies the deterministic gate required by the skill. Model-only and guarded scores must be reported separately.
+
 ## Reproduce
 
 From the skill folder, use Python 3.12+:
@@ -8,10 +10,9 @@ From the skill folder, use Python 3.12+:
 python3 -m venv .venv
 .venv/bin/python -m pip install -r requirements.lock
 .venv/bin/python -m pytest -q
-.venv/bin/python scripts/wiki_interest.py discover --query astronomy
-.venv/bin/python scripts/wiki_interest.py run --config examples/astronomy-uk.json --out work/my-astronomy
-.venv/bin/python scripts/wiki_interest.py reanalyze --run work/my-astronomy --criteria examples/criteria-strict.json --out work/my-strict
 ```
+
+For live checks, choose an independent user topic, run `discover`, `plan` and `run` into new paths under `work/`, then use `reanalyze` on the saved snapshot for a criteria-only follow-up. Do not embed a fixed topic in the skill instructions or evaluation harness.
 
 `requirements.txt` records intentional direct pins; `requirements.lock` freezes all transitive dependencies from the verified Python 3.12 environment. No compiler or system font installation is required; plotting uses Matplotlib's bundled DejaVu and PDFs embed it. For scripts outside DejaVu coverage, set `WIKIPEDIA_REPORT_FONT` to an appropriate Unicode TTF; missing glyphs cause an explicit error. Complex-script shaping/RTL is not validated in this version. Poppler is optional for external visual QA, not runtime report generation.
 
@@ -29,13 +30,14 @@ Use only an explicitly authorized account. The research CLI itself has no LLM de
 
 ```sh
 .venv/bin/python scripts/evaluate_model.py \
-  --model anthropic/claude-haiku-4.5 \
-  --out work/evaluation/haiku-v1
+  --model google/gemini-2.5-flash-lite \
+  --prompt-file work/evaluation/request.txt \
+  --out work/evaluation/run-v1
 ```
 
 Alternatively choose an available free model that explicitly advertises tool support. Confirm availability and rates in the [current catalog](https://openrouter.ai/models?supported_parameters=tools); adding `:free` does not create a free variant. See [OpenRouter free variants](https://openrouter.ai/docs/guides/routing/model-variants/free) and [tool calling](https://openrouter.ai/docs/guides/features/tool-calling).
 
-The harness supplies only SKILL.md, a realistic Ukrainian request and three bounded tools. It asks for a live astronomy study and PDF, then changes the threshold to 30% on the same observations. The model must discover a concept, create a plan, run the CLI, inspect results, deliver a grounded answer, and use reanalysis for the follow-up. It records requested/actual models, tool calls/results, token/cost metadata when returned, elapsed time, final answers, PDFs and automated checks. It has no unrestricted shell tool. It does not provide image inspection; a reviewer must render PDFs separately. Maximum 18 model turns by default, hard ceiling 30, 3,000 output tokens per call; transient retries are bounded. External provider billing/limits still apply.
+The harness supplies SKILL.md, the research request from a UTF-8 text file, and three bounded tools. The request must ask for a live study of the last two complete years and a PDF. After the first answer, the harness changes the growth threshold to 30% on the same observations. The model must discover a concept, create a plan, run the CLI, inspect results, deliver a grounded answer, and use reanalysis for the follow-up. It records requested/actual models, tool calls/results, token/cost metadata when returned, elapsed time, final answers, PDFs and automated checks. It has no unrestricted shell tool. It does not provide image inspection; a reviewer must render PDFs separately. Maximum 18 model turns by default, hard ceiling 30, 3,000 output tokens per call; transient retries are bounded. External provider billing/limits still apply.
 
 Automatic acceptance checks now require the exact rolling 24-month period, an initial/follow-up report pair, unchanged snapshot observations and source acquisition, a 10%→30% criterion change, and a `reanalyze` run with zero current HTTP requests. A model once chose the last two January–December years instead; that failure led to an explicit date instruction in `SKILL.md` and a regression check. Automatic checks still cannot judge the truthfulness of prose or visual-inspection claims; the manual rubric remains required.
 
@@ -43,7 +45,7 @@ Automatic acceptance checks now require the exact rolling 24-month period, an in
 
 Acceptance rubric (review manually after automatic checks):
 
-1. Correct topic/QID/title and the exact last 24 complete months; no invented country or learning-intent mapping.
+1. Correct topic/QID/title and the exact last 24 complete months; no invented country or user intent.
 2. All reported volumes and rates agree with analysis.json to stated rounding.
 3. Explicit comparison of raw and normalized trends plus at least one robustness diagnostic.
 4. PDF/chart exist and are readable; no false claim of visual inspection.
@@ -57,7 +59,7 @@ The [2026-09-25 inexpensive-model evaluation](../evaluation/cheap-model-2026-09-
 
 ## Iterative development gates
 
-1. **Semantic coverage:** add curated, versioned baskets with explicit inclusion/exclusion rationales; evaluate English-learning intent and missing-language cases with a domain reviewer. Gate: independently judged equivalent proxies, no silently dropped languages. Add uncommon Wikimedia language-code ↔ site-ID mappings.
+1. **Semantic coverage:** add curated, versioned baskets with explicit inclusion/exclusion rationales; evaluate narrow intent and missing-language cases with a domain reviewer. Gate: independently judged equivalent proxies, no silently dropped languages. Add uncommon Wikimedia language-code ↔ site-ID mappings.
 2. **Historical fidelity:** resolve page-title lineage and redirect traffic with deduplication rules and archived mapping versions. Gate: known rename cases reproduce manually reconciled totals. Add daily/weekly event windows and citations explaining candidate event causes.
 3. **Stronger temporal analysis:** 3–5 years of history, seasonal baselines, school calendars, comparisons to control topics and change-point diagnostics. Define the inferential question before adding uncertainty intervals; autocorrelated pageviews do not justify naive IID bootstrap significance. Gate: backtests and event stress tests, calibrated claims, sensitivity across proxy baskets.
 4. **Broader research:** support weighted baskets, separate audience and topic dimensions, scenario comparisons, external search/app-store signals and interview findings. Gate: data licenses/provenance retained and no unjustified merging of metrics with different units. Add native report-language templates and appropriate font/shaping support.

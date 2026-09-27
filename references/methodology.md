@@ -2,7 +2,7 @@
 
 ## Comparable units
 
-Wikidata sitelinks identify language equivalents. MediaWiki validates the actual canonical page, QID and disambiguation status before loading traffic. Treat topic discovery as a semantic decision: a similarly named entity, general language page or movie is not a proxy for a learning task. Missing editions have unknown suitability, not zero demand.
+Wikidata sitelinks identify language equivalents. MediaWiki validates the actual canonical page, QID and disambiguation status before loading traffic. Treat topic discovery as a semantic decision: a similarly named but different entity or a broader concept may not represent the user's intent. Missing editions have unknown suitability, not zero demand.
 
 All calls use `all-access` and `user` (human-classified, not guaranteed exclusively human). Wikipedia editions differ in total audience, content coverage and search exposure. Report both absolute pageviews and pageviews per million edition pageviews. Neither is population penetration. Editions are not countries, baskets are not unique people, and no views-to-revenue conversion is justified.
 
@@ -23,7 +23,7 @@ The latest 12 completed months are compared with their preceding 12. Longer hist
 `insufficient_data`: annual observations/denominators incomplete, or raw growth undefined.
 `fragile`: small baseline, top-seven concentration above threshold, a positive result disappearing after peak exclusion, or a detected title move.
 `research_next`: remaining data meets all configured minimums for raw growth, share growth, peak-excluded growth and positive months.
-`no_clear_growth`: valid remaining data does not meet the criteria. This is not evidence that a product cannot work.
+`no_clear_growth`: valid remaining data does not meet the criteria. This does not settle the user's broader decision.
 
 For comparable baskets, qualifying series are ordered by share growth, breaking ties on latest-year volume. This is an explicit prioritization heuristic. Default baseline 1,000, growth 10%, positive months 8/12 and spike concentration 15% are analyst defaults, not empirically established cutoffs. Repeat with stricter/looser thresholds; instability lowers trust. Robustness diagnostics do not provide confidence levels, hypothesis-test significance or forecast accuracy.
 
